@@ -3,6 +3,8 @@
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/ktgk/src/main/java/com/nhom13/ktgk/controller/model" />
+      <excludeFolder url="file://$MODULE_DIR$/ktgk/src/main/resources/static/css" />
+      <excludeFolder url="file://$MODULE_DIR$/ktgk/src/main/resources/templates/book" />
     </content>
   </component>
 </module>
